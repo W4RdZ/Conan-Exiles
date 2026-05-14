@@ -1,0 +1,2 @@
+# Conan-Exiles
+Server info
